@@ -3,6 +3,7 @@ import './App.css';
 
 import Recipe from './Recipe';
 
+// call from env instead pasting on the app page
 const API_KEY = 'da80a547ee17ae8ee482e96a5f9abbb9';
 
 const API_ID = 'e645cbf6';
