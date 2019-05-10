@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Disclosure
+
+This app uses Edamam which only always a certain number of requests at a time so please be mindful when looking up recipes. ENJOY!!
+
+
 ## Available Scripts
 
 In the project directory, you can run:
